@@ -2,7 +2,7 @@
 
 I'm currently a postdoc at Georgia Institute of Technology. 
 
-In 2022 summer, I interned at [@GoogleChrome](https://github.com/GoogleChrome/chromium-dashboard) for [Chrome Platform Status](https://chromestatus.com/roadmap). Check out my [contribution summary](https://kevinshen56714.github.io/chromestatus-intern)!
+In 2022 summer, I interned at [@GoogleChrome](https://github.com/GoogleChrome/chromium-dashboard) for [Chrome Platform Status](https://chromestatus.com/roadmap). Check out my **[contribution summary](https://kevinshen56714.github.io/chromestatus-intern)**!
 
 
 I like to build open source products with TypeScript (and JavaScript), Python, SQL and NoSQL databases, and modern full-stack frameworks. 🤖 My proud projects include:
