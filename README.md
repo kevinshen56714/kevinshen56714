@@ -1,4 +1,4 @@
-### Hey! I'm [@Kevin_KuanHsuan](https://twitter.com/Kevin_KuanHsuan) (Kevin Shen) 👋
+### Hey! I'm Kevin Shen 👋
 
 I'm currently a postdoc at Georgia Institute of Technology. 
 
